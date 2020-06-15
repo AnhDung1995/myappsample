@@ -1,2 +1,4 @@
 error logs
 error logtest
+error troi dep qua
+
